@@ -2,6 +2,7 @@
 
 Cohen's d for the difference in 'totalwgt_lb' between the first group and other:
 + -0.088672927072602
+
 Cohen's d for the difference in 'prglngth' between the first group and other:
 + 0.028879044654449883
 
